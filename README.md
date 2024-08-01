@@ -1,2 +1,2 @@
-# minor update to coursera-repo
+# coursera-repo
 For git course on Coursera
